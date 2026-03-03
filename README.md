@@ -1,4 +1,4 @@
-# 📚 SQL Studies | Jornada de Aprendizado
+# 📚 SQL Studies | Jornada de Aprendizado.
 
 Repositório dedicado aos meus estudos em SQL utilizando PostgreSQL como sistema de gerenciamento de banco de dados.
 
